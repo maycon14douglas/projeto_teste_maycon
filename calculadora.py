@@ -1,3 +1,4 @@
+'''''
 def somar(a, b):
     return a + b
 
@@ -51,3 +52,4 @@ while True:
             print("Erro: entrada inválida. Use apenas números.")
     else:
         print("Opção inválida. Tente novamente.")
+'''
